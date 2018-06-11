@@ -10,7 +10,7 @@ This repository includes multiple compressed files used as supplementary data fo
 		  in IEEE Sensors Journal, vol. 17, no. 4, pp. 1144-1153, Feb.15, 15 2017.
 		  doi: 10.1109/JSEN.2016.2642302
 			 
-		  - http://ieeexplore.ieee.org/document/7792197/ 
+		- http://ieeexplore.ieee.org/document/7792197/ 
 	
 	
 - 2_code_and_data.zip -- sample acceleration signals and Matlab code that calculates the different parameters used for a research article that is under revision. 
